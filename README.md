@@ -1,3 +1,1 @@
-Repo Zabbix
-# Zabbix
 # Zabbix
